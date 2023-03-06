@@ -1,0 +1,52 @@
+
+h4{
+    text-align: center;
+    font-size: 40px;
+    color: green;
+    
+    height: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    color: green;
+    height: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+  
+ .btn1{
+    width: 100px;
+    border-style: ridge;
+    border-width: 5px;
+    padding: 10px;
+    margin: 10px;
+    background-color: green;
+    color: white;
+    text-align: center;
+    margin-left: 500px;
+}
+.btn2{
+    width: 100px;
+    border-style: ridge;
+    border-width: 5px;
+    padding: 10px;
+    margin: 10px;
+    background-color: red;
+    color: white;
+    text-align: center;
+   
+}
+.btn3{
+    width: 100px;
+    border-style: ridge;
+    border-width: 5px;
+    padding: 10px;
+    margin: 10px;
+    background-color:yellowgreen;
+    color: white;
+    text-align: center;
+   
+}
