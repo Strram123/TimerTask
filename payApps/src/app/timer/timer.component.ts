@@ -22,12 +22,12 @@ export class TimerComponent implements OnInit {
   increment(numReceiver:number){
   this.num++
   }
-  public stop():void{
+  public pause():void{
   this.subscription.unsubscribe();
   }
-  public restart():void{
+  public stop():void{
   this.num=0
-  this.subscription=this.source.subscribe(()=>{this.increment(this.num)});
+
   }
 
 }
